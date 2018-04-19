@@ -1,8 +1,7 @@
 # Various 3D Models
 ## The Turbine Support
 The full assembly of the support:<br />
-![support](https://user-images.githubusercontent.com/30231031/39000512-38e55952-43c2-11e8-9d2f-557a848756c8.PNG)
-
+![support](https://user-images.githubusercontent.com/30231031/39000512-38e55952-43c2-11e8-9d2f-557a848756c8.PNG) | width: 100
 There are 2 parts in this assembly: the base and the beam, which can be seen as follows<br />
 Also, the support is simulated in SolidWorks: <br />
 
