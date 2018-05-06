@@ -20,8 +20,11 @@ cap on a ruptured oil well and also clearing surrounding debris. <br />
 ![underwaterrov](https://user-images.githubusercontent.com/30231031/39676713-2ae260ce-513d-11e8-96cc-54cf1e47c1d4.PNG)
 ![underwaterrov1](https://user-images.githubusercontent.com/30231031/39676714-2aee73fa-513d-11e8-9b5c-8a5eec8264b3.PNG)
 ## The Crank
-Contains a list of parts ordered, can only be opened with LibreOffice or other applications 
-that can open .ods files.<br />
+The Assembly<br />
+![crank](https://user-images.githubusercontent.com/30231031/39676779-08dee424-513e-11e8-8eb5-8649e3e1c223.PNG)
+The Drawing<br />
+![drawing](https://user-images.githubusercontent.com/30231031/39676780-08e93406-513e-11e8-9096-227bbcb65eef.PNG)
+
 ## The Pulley
 ![pulley](https://user-images.githubusercontent.com/30231031/39676674-b858d056-513c-11e8-9d57-4e02ae0efb33.PNG)
 ## Others
