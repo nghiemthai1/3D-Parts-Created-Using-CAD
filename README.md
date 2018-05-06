@@ -26,3 +26,5 @@ that can open .ods files.<br />
 ![pulley](https://user-images.githubusercontent.com/30231031/39676674-b858d056-513c-11e8-9d57-4e02ae0efb33.PNG)
 ## Others
 Small parts for specific use. 
+### IR casing used for Sumo-Robot
+![casing](https://user-images.githubusercontent.com/30231031/39676753-cc12fe18-513d-11e8-9ee7-6ddb019f52c6.PNG)
