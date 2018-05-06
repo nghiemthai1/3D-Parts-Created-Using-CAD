@@ -11,11 +11,15 @@ Also, the support is simulated in SolidWorks: <br />
 ![simulation](https://user-images.githubusercontent.com/30231031/39001164-a90fdd32-43c3-11e8-9517-eddac5433b9d.PNG)
 
 ## The Fan 
-Contains the schematic and pcb files.<br />
-## The Final Project Pictures folder 
+Computer Electric Fan<br />
+![fan](https://user-images.githubusercontent.com/30231031/39676635-3ea61eda-513c-11e8-9d31-0e91c869adad.PNG)
+
+## The Underwater Remote Control Vehicle
 Contains figures in the final report.<br />
-## The Parts List Emb.ods 
+## The Crank
 Contains a list of parts ordered, can only be opened with LibreOffice or other applications 
 that can open .ods files.<br />
-## The sumobot-final-project-report.pdf 
+## The Pulley
 Is a pdf of - surprise- the sumobot final project report for Embedded Systems.<br />
+## Others
+Small parts for specific use. 
