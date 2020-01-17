@@ -1,5 +1,3 @@
-[![Release Version](http://img.shields.io/npm/v/REPO.svg?style=flat)](1.6.0)
-
 # Various 3D Models
 Powered by SolidWorks and OnShape.
 
