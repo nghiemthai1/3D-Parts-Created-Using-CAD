@@ -1,3 +1,5 @@
+[![npm version](http://img.shields.io/npm/v/REPO.svg?style=flat)](https://npmjs.org/package/REPO "View this project on npm")
+
 # Various 3D Models
 Powered by SolidWorks and OnShape.
 
